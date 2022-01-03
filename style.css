@@ -1,0 +1,33 @@
+body
+{
+  color: #3f0426;
+  background:lightpink;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed rgb(107, 27, 27);
+  width: 350px;
+  height: 300px; 
+}
+#result_hand_gesture
+{
+  color: rgb(73, 3, 3);
+}
+.hand_gesture
+{
+  font-size: 40px;
+}
+.hand
+{
+  font-size:48px;
+}
+.heading
+{
+  font-size: 18px;
+  border-radius: 5px;
+  letter-spacing: 10px;
+}
